@@ -16,9 +16,10 @@
 В процессе тестирования использовались следующие артефакты*:
 * <https://github.com/netology-code/javaqa-homeworks/tree/master/intro>
 
-В качестве тестовых данных использовались данные <указать источник, откуда брались тестовые данные>:
-* <https://freeformatter.com/credit-card-number-generator-validator.html>
-* <https://github.com/netology-code/javaqa-homeworks/tree/master/intro>
+В качестве тестовых данных использовались данные <https://freeformatter.com/credit-card-number-generator-validator.html>:
+* <4024007191862678907, 6011511999480107420>
+* <30014125302740>
+* <372525495633477>
 
 Тестирование производилось в следующем окружении:
 * <Windows 10>
