@@ -7,16 +7,16 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Валидный номер карты (19 цифр) считается невалидным в Credit Card Number Validator](github.com/Ingask/Zadanie02Lection01/issues/1)
-* [Валидный номер карты (14 цифр) считается невалидным в Credit Card Number Validator](github.com/Ingask/Zadanie02Lection01/issues/2)
-* [Валидный номер карты (15 цифр) считается невалидным в Credit Card Number Validator](github.com/Ingask/Zadanie02Lection01/issues/3)
+* [Валидный номер карты (19 цифр) считается невалидным в Credit Card Number Validator](https://github.com/Ingask/Zadanie02Lection01/issues/1)
+* [Валидный номер карты (14 цифр) считается невалидным в Credit Card Number Validator](https://github.com/Ingask/Zadanie02Lection01/issues/2)
+* [Валидный номер карты (15 цифр) считается невалидным в Credit Card Number Validator](https://github.com/Ingask/Zadanie02Lection01/issues/3)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* github.com/netology-code/javaqa-homeworks/tree/master/intro
+* https://github.com/netology-code/javaqa-homeworks/tree/master/intro
 
-В качестве тестовых данных использовались данные freeformatter.com/credit-card-number-generator-validator.html:
+В качестве тестовых данных использовались данные https://freeformatter.com/credit-card-number-generator-validator.html:
 * 4024007191862678907, 6011511999480107420 с ожидаемым результатом ОК
 * 30014125302740 с ожидаемым результатом ОК
 * 372525495633477 с ожидаемым результатом ОК
